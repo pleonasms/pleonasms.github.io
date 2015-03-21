@@ -11,6 +11,6 @@ https://github.com/pleonasms/
 My Github Pages repo can be found at:  
 https://github.com/pleonasms/pleonasms.github.io/
 
-And, soon, you can see my customized homepage at:
+With any luck, my customized homepage will also be up and running at: 
 
 http://pleonasms.github.io/
